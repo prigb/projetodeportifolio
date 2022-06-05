@@ -1,0 +1,1 @@
+Esse projeto foi criado para o curso da DIO "Desenvolvendo um menu hamburguer e morphing menu com CSS Transitions". Aprendi muito nesse curso, adorei fazê-lo e recomendo a todos que tenham interesse em programar!
